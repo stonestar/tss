@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TSS_File</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="teacher">Teacher(s):</string>
+    
+    <string name="down">下载选中</string>
+     <string name="logininfo">You should use the prefix of your email address as your login id.</string>
+    <string name="loginnote2">Please sign in</string>
+    <string name="name">Name:</string>
+    <string name="password">Password:</string>
+    <string name="rember">记住密码</string>
+    <string name="login">登录</string>
+    <string name="course">Mycouse</string>
+    <string name="courseall">All course</string>
+    <string name="downall">下载全部</string>
+     <string name="downselected">下载选中</string>
+     <string name="coursename">课程名：</string>
+     <string name="size">Size:</string>
+     <string name="searchcourse">查找课程</string>
+     <string name="title">没有登录成功</string>
+     <string name="message">没有联网或者TSS太慢了或者密码对了吗？</string>
+     <string name="ok">我知道了</string>
+     <string name="cancle">取消</string>
+     <string name="back">回退</string>
+     <string name="time">Due Time:</string>
+     <string name="des">Description:</string>
+     <string name="jidu">换季度</string>     
+     <string name="appname">TSS资料下载神器</string>
+</resources>

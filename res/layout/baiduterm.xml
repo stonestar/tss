@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/s"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/buttonterm"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:text="2013 Spring" />
+
+    <Button
+        android:id="@+id/buttonterm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/textView1"
+        android:text="@string/jidu" />
+
+</RelativeLayout>
